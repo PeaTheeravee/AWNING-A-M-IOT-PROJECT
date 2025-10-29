@@ -1,5 +1,5 @@
 # AWNING A&M
-โมเดลจำลองกันสาด โปรเจครายวิชา 240-319 Embedded System Developer Module Yr3 1/2566
+โมเดลจำลองกันสาด โปรเจครายวิชา 240-319 Embedded System Developer Module 3rd Year 1/2566
 โดยใช้ Arduino และ Odroid C4
 
 <img width="1540" height="600" alt="Image" src="https://github.com/user-attachments/assets/68abad15-111e-4c1d-9084-18013b39ee22" />
