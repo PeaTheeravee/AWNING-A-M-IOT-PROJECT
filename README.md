@@ -1,4 +1,4 @@
-# AWNING A&M
+# Awning A&M
 โมเดลจำลองกันสาด โปรเจครายวิชา 240-319 Embedded System Developer Module 3rd Year 1/2566
 โดยใช้ Arduino และ Odroid C4
 
