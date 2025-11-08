@@ -3,10 +3,10 @@
 โดยใช้ Arduino และ Odroid C4
 
 # Slide Presentation 
-https://www.canva.com/design/DAG3u2kB6pk/Z_B5Mdg0spBOynHYb_UJ3g/edit?utm_content=DAG3u2kB6pk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://drive.google.com/file/d/175XGC1m45OfwwUddzku9VPJLdRlxpDzo/view?usp=sharing
 
 # Project Report 
-https://drive.google.com/file/d/1Q3I3JJRTJ-XKArMl1rMbng5F6su_Hox4/view?usp=drive_link
+https://drive.google.com/file/d/1EmqiP7LLgEqb9vxDbf3vycmGXmtGDacV/view?usp=sharing
 
 <img width="1540" height="600" alt="Image" src="https://github.com/user-attachments/assets/68abad15-111e-4c1d-9084-18013b39ee22" />
 
